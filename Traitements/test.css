@@ -1,0 +1,8 @@
+p{
+    width: auto;
+    height: 50px;
+    background-color: green;
+    border: solid 5px black;
+    border-radius: 5px;
+    color: white;
+}

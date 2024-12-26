@@ -1,0 +1,61 @@
+.container{
+    margin: 5px;
+    text-align: justify;
+}
+
+.container h2{
+    text-align: center;
+    color: blue;
+}
+
+.connexion{
+    border-radius: 5px;
+    border-color: solid black;
+    background-color: cadetblue;
+    width: 90px;
+    height: 20px;
+    padding: 5px;
+}
+.connexion a{
+    text-decoration: none;
+    color: white;
+}
+.connexion a:hover{
+    text-decoration: none;
+    color: blue;
+}
+.connexion:hover{
+    color: white;
+    border-radius: 5px;
+    border-color: solid black;
+    background-color: white;
+    width: 90px;
+    height: 20px;
+    padding: 5px;  
+}
+
+.creer{
+    border-radius: 5px;
+    border-color: solid 2 black;
+    background-color: green;
+    width: 80px;
+    height: 20px;
+    padding: 5px;
+    text-decoration: none;
+    float: right;
+    margin-top: -55px;
+}
+.creer:hover{
+    background-color: white;
+    border-radius: 5px;
+    border-color: solid 2 black;
+}
+.creer a{
+    text-decoration: none;
+    color: white;
+}
+
+.creer a:hover{
+    text-decoration: none;
+    color: blue;
+}
